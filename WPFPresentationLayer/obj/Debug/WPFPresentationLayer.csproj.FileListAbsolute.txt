@@ -1,0 +1,13 @@
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csprojAssemblyReference.cache
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.Form1.resources
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.Properties.Resources.resources
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.GenerateResource.cache
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe.config
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.exe
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\bin\Debug\WPFPresentationLayer.pdb
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\bin\Debug\Metadata.dll
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\bin\Debug\Metadata.pdb
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.csproj.CopyComplete
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.exe
+C:\Users\orica\source\repos\TestePagueVeloz\WPFPresentationLayer\obj\Debug\WPFPresentationLayer.pdb

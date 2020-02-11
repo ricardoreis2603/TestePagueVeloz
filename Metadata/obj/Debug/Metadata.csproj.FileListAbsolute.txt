@@ -1,0 +1,16 @@
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\obj\Debug\Metadata.csprojAssemblyReference.cache
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\obj\Debug\Metadata.csproj.CoreCompileInputs.cache
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\Metadata.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\Metadata.pdb
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\BLL.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\DALL.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\MySql.Data.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\Google.Protobuf.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\Renci.SshNet.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\BLL.pdb
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\DALL.pdb
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\bin\Debug\MySql.Data.xml
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\obj\Debug\Metadata.csproj.CopyComplete
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\obj\Debug\Metadata.dll
+C:\Users\orica\source\repos\TestePagueVeloz\Metadata\obj\Debug\Metadata.pdb

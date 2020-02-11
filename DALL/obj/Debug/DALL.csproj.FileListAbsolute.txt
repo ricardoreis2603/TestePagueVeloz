@@ -1,0 +1,6 @@
+C:\Users\orica\source\repos\TestePagueVeloz\DALL\bin\Debug\DALL.dll
+C:\Users\orica\source\repos\TestePagueVeloz\DALL\bin\Debug\DALL.pdb
+C:\Users\orica\source\repos\TestePagueVeloz\DALL\obj\Debug\DALL.csprojAssemblyReference.cache
+C:\Users\orica\source\repos\TestePagueVeloz\DALL\obj\Debug\DALL.csproj.CoreCompileInputs.cache
+C:\Users\orica\source\repos\TestePagueVeloz\DALL\obj\Debug\DALL.dll
+C:\Users\orica\source\repos\TestePagueVeloz\DALL\obj\Debug\DALL.pdb
